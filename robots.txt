@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://l-tricoche.github.io/al-folio/sitemap.xml
+Sitemap: https://l-tricoche.github.io/sitemap.xml
