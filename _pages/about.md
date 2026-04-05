@@ -3,6 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: Bordeaux University - INRIA Bordeaux Sud-Ouest<br>Post-doctoral researcher
+nav: true
+nav_order: 1
 
 profile:
   align: right
