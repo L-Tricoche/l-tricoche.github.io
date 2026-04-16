@@ -1,17 +1,16 @@
 ---
 layout: about
 nav: false
-title: About
+title: about
 permalink: /
-subtitle: Postdoctoral Researcher
+subtitle: Postdoctoral Researcher<br>Bordeaux University - INRIA Bordeaux Sud-Ouest (Flowers team)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Bordeaux University - INRIA Bordeaux Sud-Ouest</p>
-    <p>Flowers team</p>
+    <p>leslie.tricoche@ecomail.fr</p>
 
 selected_papers: false
 social: true
