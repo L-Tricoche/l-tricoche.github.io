@@ -421,9 +421,9 @@ ninja.data = [{
           section: "News",},{id: "news-work-in-progress-news-sparkles-smile",
           title: 'WORK IN PROGRESS (_news) :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-ecosoc-project",
+          title: 'ECOSOC project',
+          description: "in collaboration with Emilie Caspar, Damien Brevers and Claus Lamm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
