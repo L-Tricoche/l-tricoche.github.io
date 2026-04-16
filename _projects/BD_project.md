@@ -11,7 +11,7 @@ I was invited to contribute to the second volume of the InScience comic book pro
 
 Below is a preview featuring the opening panels of my story. 
 
-![Preview of the comic](/assets/img/projects/BD-page1.png)
+![Preview of the comic](/assets/img/BD-page1.png)
 
 To explore the full version, as well as the contributions of other researchers included in this volume, you can follow this link:
 [See the full project here](https://www.inserm.fr/culture-scientifique/bande-dessinee-inscience-cultive-ta-sante-avec-linserm/)
