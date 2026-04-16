@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-a-post-with-images",
+        },{id: "post-apprendre-ensemble-les-autres-comme-moteurs-ou-freins-de-notre-curiosité",
+        
+          title: "Apprendre ensemble : les autres comme moteurs (ou freins ?) de notre curiosité...",
+        
+        description: "Comment la présence, le regard et l’activité des autres influencent-ils notre motivation à apprendre et notre curiosité ?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/influence-sociale-curiosite/";
+          
+        },
+      },{id: "post-a-post-with-images",
         
           title: "a post with images",
         
