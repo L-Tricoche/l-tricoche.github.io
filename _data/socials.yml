@@ -20,7 +20,7 @@ linkedin_username: leslie-tricoche-10094a137
 custom_social:
   title: Bluesky
   url: https://bsky.app/profile/leslie-tricoche.bsky.social
-  logo: /assets/img/bluesky.svg
+  logo: fa-brands fa-bluesky
 
 email:
   url: mailto:leslie.tricoche@inria.fr
