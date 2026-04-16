@@ -11,10 +11,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="mailto:leslie.tricoche@inria.fr">leslie.tricoche@inria.fr</a></p>
     <p><a href="mailto:leslie.tricoche@ecomail.fr">leslie.tricoche@ecomail.fr</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
