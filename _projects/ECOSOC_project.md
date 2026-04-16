@@ -5,7 +5,7 @@ description: In collaboration with Emilie Caspar, Damien Brevers and Claus Lamm
 img: assets/img/LOGO.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 In public discourse and policy discussions, ecological transition is often presented as a choice between two perspectives: either it depends on individual actions (such as reducing personal consumption), or it requires broader societal changes (such as transforming norms and systems toward sustainability). This opposition can create mixed messages about how people should engage in pro-environmental behaviors (ProEnvB), especially when economic systems continue to prioritize growth and consumption. As a result, individuals may feel uncertain or even powerless in the face of what is considered one of the major challenges of our time.
