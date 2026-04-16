@@ -80,12 +80,7 @@ ninja.data = [{
           section: "News",},{id: "news-work-in-progress-news-sparkles-smile",
           title: 'WORK IN PROGRESS (_news) :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ecosoc-project",
-          title: 'ECOSOC project',
-          description: "in collaboration with Emilie Caspar, Damien Brevers and Claus Lamm",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -110,6 +105,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-ecosoc-project",
+          title: 'ECOSOC project',
+          description: "in collaboration with Emilie Caspar, Damien Brevers and Claus Lamm",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ECOSOC_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
