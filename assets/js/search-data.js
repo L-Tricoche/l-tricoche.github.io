@@ -80,16 +80,16 @@ ninja.data = [{
           section: "News",},{id: "news-work-in-progress-news-sparkles-smile",
           title: 'WORK IN PROGRESS (_news) :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-7",
+          section: "News",},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-bd-inscience-inserm-project",
+          title: 'BD InScience INSERM project',
+          description: "My PhD work was adapted into a comic book format.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/BD_project/";
             },},{id: "projects-ecosoc-project",
           title: 'ECOSOC project',
           description: "in collaboration with Emilie Caspar, Damien Brevers and Claus Lamm",
