@@ -1,5 +1,6 @@
 ---
 layout: about
+nav: false
 title: About
 permalink: /
 subtitle: Postdoctoral Researcher
