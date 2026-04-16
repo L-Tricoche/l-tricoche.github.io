@@ -1,30 +1,20 @@
 ---
 layout: about
-title: ""
+title: About
 permalink: /
-subtitle: Bordeaux University - INRIA Bordeaux Sud-Ouest<br>Post-doctoral researcher
-nav: true
-nav_order: 1
+subtitle: Postdoctoral Researcher
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p><a href="mailto:leslie.tricoche@ecomail.fr">leslie.tricoche@ecomail.fr</a></p>
+    <p>Bordeaux University - INRIA Bordeaux Sud-Ouest</p>
+    <p>Flowers team</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+selected_papers: false
+social: true
+announcements: true
 ---
 
 My research lies at the intersection of social psychology and cognitive neuroscience. It focuses on understanding the mechanisms and neural substrates underlying human decision-making in social contexts, as well as their developmental trajectories from childhood through adolescence to adulthood.
