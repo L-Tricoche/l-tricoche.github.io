@@ -3,7 +3,7 @@ layout: about
 nav: false
 title: about
 permalink: /
-subtitle: **Postdoctoral Researcher<br>Bordeaux University - INRIA Bordeaux Sud-Ouest (Flowers team)**
+subtitle: Postdoctoral Researcher<br>Bordeaux University - INRIA Bordeaux Sud-Ouest (Flowers team)
 
 profile:
   align: right
