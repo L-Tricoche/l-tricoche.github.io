@@ -17,7 +17,6 @@ cv:
     Education:
       - institution: Lyon University
         location: Lyon, France
-        url: ""
         area: Neurosciences
         studyType: PhD
         start_date: 2018
@@ -257,6 +256,6 @@ cv:
       - name: BD InScience INSERM project Vol. 2
         summary: My PhD work was adapted into a comic book format.
         highlights:
-          - https://www.inserm.fr/culture-scientifique/bande-dessinee-inscience-cultive-ta-sante-avec-linserm/
+          - "[Link](https://www.inserm.fr/culture-scientifique/bande-dessinee-inscience-cultive-ta-sante-avec-linserm/)"
         start_date: ""
         end_date: ""
