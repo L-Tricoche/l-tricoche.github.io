@@ -61,6 +61,16 @@ Cet apprentissage social est si puissant qu'il génère parfois de la **sur-imit
 
 Ce phénomène illustre à quel point notre cerveau est construit pour accorder de l'importance aux informations sociales.
 
+<figure style="text-align: center;">
+  <img src="/assets/img/blog/Figure_SocialLearning.jpg" width="80%" />
+
+  <figcaption style="text-align: justify; font-size: 0.9em; margin-top: 10px;">
+    <strong>Figure du haut :</strong> d’après Arioli et Canessa (2019) dans <em>Human Brain Mapping</em> : réseau cérébral impliqué dans l’apprentissage social (action par l’observation) incluant le cortex prémoteur, des aires pariétales dont les lobules pariétaux supérieur, inférieur et le sulcus pariétal inférieur, le gyrus frontal inférieur, une partie du sulcus temporal supérieur et des régions occipitales.<br><br>
+
+    <strong>Figure du bas :</strong> d’après Hofmans et van den Bos (2022) dans <em>Developmental Cognitive Neuroscience</em> : mise à jour bayésienne des croyances en fonction des caractéristiques sociales de la source. L’information sociale est pondérée selon sa fiabilité perçue (expertise, statut, proximité) : elle a un impact plus faible lorsqu’elle provient d’une source peu crédible (schéma du haut) et plus fort lorsqu’elle provient d’une source fiable (schéma du bas). Cette pondération différentielle conduit à une révision plus ou moins importante de la croyance initiale.
+  </figcaption>
+</figure>
+
 ## Apprendre par la pression du groupe : la conformité
 
 La conformité, c’est notre tendance à aligner nos jugements et comportements sur ceux du groupe.
