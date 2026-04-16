@@ -81,7 +81,7 @@ ninja.data = [{
               window.location.href = "/projects/BD_project/";
             },},{id: "projects-ecosoc-project",
           title: 'ECOSOC project',
-          description: "in collaboration with Emilie Caspar, Damien Brevers and Claus Lamm",
+          description: "In collaboration with Emilie Caspar, Damien Brevers and Claus Lamm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ECOSOC_project/";
             },},{id: "teachings-data-science-fundamentals",
