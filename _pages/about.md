@@ -24,5 +24,3 @@ Throughout my academic career, my work has progressively addressed increasingly 
 I am particularly interested in bridging fundamental research with applied perspectives, especially in the fields of education, development, and contemporary societal challenges such as pro-environmental behavior. Overall, my work aims to better understand how individuals engage, learn, and make decisions in interaction with their social environment.
 
 Please see my [ResearchGate profile](https://www.researchgate.net/profile/Leslie-Tricoche).
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
