@@ -18,9 +18,9 @@ email: leslie.tricoche@inria.fr
 linkedin_username: leslie-tricoche-10094a137
 
 custom_social:
-  - title: Bluesky
-    url: https://bsky.app/profile/leslie-tricoche.bsky.social
-    logo: /assets/img/bluesky.svg
+  title: Bluesky
+  url: https://bsky.app/profile/leslie-tricoche.bsky.social
+  logo: /assets/img/bluesky.svg
 
 email:
   url: mailto:leslie.tricoche@inria.fr
