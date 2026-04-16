@@ -62,7 +62,7 @@ Cet apprentissage social est si puissant qu'il génère parfois de la **sur-imit
 Ce phénomène illustre à quel point notre cerveau est construit pour accorder de l'importance aux informations sociales.
 
 <figure style="text-align: center;">
-  <img src="/assets/img/blog/Figure_SocialLearning.jpg" width="80%" />
+  <img src="/assets/img/Figure_SocialLearning.jpg" width="80%" />
 
   <figcaption style="text-align: justify; font-size: 0.9em; margin-top: 10px;">
     <strong>Figure du haut :</strong> d’après Arioli et Canessa (2019) dans <em>Human Brain Mapping</em> : réseau cérébral impliqué dans l’apprentissage social (action par l’observation) incluant le cortex prémoteur, des aires pariétales dont les lobules pariétaux supérieur, inférieur et le sulcus pariétal inférieur, le gyrus frontal inférieur, une partie du sulcus temporal supérieur et des régions occipitales.<br><br>
