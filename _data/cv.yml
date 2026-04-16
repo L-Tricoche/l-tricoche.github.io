@@ -3,9 +3,9 @@ cv:
   label: Postdoctoral Researcher
   email: leslie.tricoche@ecomail.fr
   location: Bordeaux University - INRIA Bordeaux Sud-Ouest (Flowers team)
-  Website: https://www.researchgate.net/profile/Leslie-Tricoche 
+  Website: https://www.researchgate.net/profile/Leslie-Tricoche
   image: ""
-  summary: Social psychology - Cognitive neurosciences - Development - Decision-making - Social influence - Pro-social and Pro-environmental behaviors
+  summary: Social psychology - Cognitive neurosciences - Development - Decision-making - Social influence - Pro-social and pro-environmental behaviors
 
   social_networks:
     - network: ORCID
@@ -14,9 +14,7 @@ cv:
       username: leslie-tricoche-10094a137
 
   sections:
-  
     Education:
-    
       - institution: Lyon University
         location: Lyon, France
         url: ""
@@ -27,40 +25,39 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - "Title: Neural bases of Social Facilitation/Inhibition in children and adults: Why does the mere presence of a peer modulates our cogni-tive performance?" 
-          - "Supervisors: Denis Pélisson & Martine Meunier"
+          - "Title: Neural bases of social facilitation/inhibition in children and adults: Why does the mere presence of a peer modulate our cognitive performance?"
+          - "Supervisors: Denis Pélisson and Martine Meunier"
 
       - institution: Lyon University
         location: Lyon, France
-        area: Fundamental and clinic neurosciences
+        area: Fundamental and clinical neurosciences
         studyType: Master degree
-        start_date: 2018
-        end_date: 2016
+        start_date: 2016
+        end_date: 2018
 
       - institution: Bordeaux University
         location: Bordeaux, France
         area: Biology
         studyType: University degree
-        start_date: 2016
-        end_date: 2015
+        start_date: 2015
+        end_date: 2016
 
       - institution: Bordeaux University
         location: Bordeaux, France
-        area: MIASHS (mathematics and informatics applied to the humans and social sciences) – option cognitive sciences
+        area: MIASHS (mathematics and informatics applied to the human and social sciences), option cognitive sciences
         studyType: University degree
-        start_date: 2015
-        end_date: 2012
-        
+        start_date: 2012
+        end_date: 2015
+
     Experience:
-    
       - company: Bordeaux University, INRIA Bordeaux Sud-Ouest (Flowers team)
         position: Postdoctoral researcher
         location: Bordeaux, France
         start_date: 2025
         end_date: 2026
         highlights:
-          - Social influence on cognitive training and learning in old adults 
-          - Social influence on curiosity to learn in children 
+          - Social influence on cognitive training and learning in older adults
+          - Social influence on curiosity to learn in children
 
       - company: Bordeaux University
         position: ATER (teaching contract)
@@ -68,184 +65,180 @@ cv:
         start_date: 2025
         end_date: 2026
         highlights:
-          - University degree (second and third year students) in MIASHS
-          - Master degree (first and second year students) in Cognitive Sciences
-          
-      - company: Ghent University - Department of Experimental Psychology - Moral & Social Brain lab
+          - University degree teaching (second- and third-year students) in MIASHS
+          - Master degree teaching (first- and second-year students) in Cognitive Sciences
+
+      - company: Ghent University - Department of Experimental Psychology - Moral and Social Brain Lab
         position: Postdoctoral researcher
         location: Ghent, Belgium
         start_date: 2022
         end_date: 2025
         highlights:
-          - Neurocognitives processes of prosocial disobedience
-          - Decision processes associated to pro-environmental behaviors
+          - Neurocognitive processes of prosocial disobedience
+          - Decision processes associated with pro-environmental behaviors
 
-      - company:  Université libre de Bruxelles (ULB)
+      - company: Université libre de Bruxelles (ULB)
         position: Teaching intervention
         location: Brussels, Belgium
         start_date: 2023
         end_date: 2025
         highlights:
-          - University degree (first year students) in Law
-          - Lecture course - Introduction to psychology
+          - University degree teaching (first-year students) in Law
+          - Lecture course in introduction to psychology
 
-      - company:  Lyon University - IFMKDV
+      - company: Lyon University - IFMKDV
         position: Teaching contract
         location: Lyon, France
         start_date: 2021
         end_date: 2022
         highlights:
-          - Master degree (first and second year students) in Physical therapy with students having visual impairment
-          - Neuroscience courses 
-          
-       - company:  Lyon University
+          - Master degree teaching (first- and second-year students) in physical therapy for students with visual impairment
+          - Neuroscience courses
+
+      - company: Lyon University
         position: Teaching contract
         location: Lyon, France
         start_date: 2018
         end_date: 2021
         highlights:
-          - University degree (undergraduate students) in Paramedical 
-          - Neuroplasticity, Statistics, and Informatics courses          
+          - University degree teaching (undergraduate students) in paramedical studies
+          - Courses in neuroplasticity, statistics, and informatics
 
     Awards:
-    
       - title: Doctoral fellowship of the Neurosciences and Cognition doctoral school (NSCo ED)
         authors:
-          - "Ranked first at the competition"
+          - Ranked first in the competition
         date: 2018
         awarder: Lyon University
 
-Publications:
+    Publications:
+      - title: Choosing others or the environment? Neurocognitive evidence for moral conflict and priority of prosocial over pro-environmental values
+        authors:
+          - Leslie Tricoche
+          - Claus Lamm
+          - Damien Brevers
+          - Emilie A. Caspar
+        publisher: PsyArXiv (preprint)
+        releaseDate: 2026
+        url: https://osf.io/preprints/psyarxiv/9kspn_v1
 
-  - title: Choosing others or the environment? Neurocognitive evidence for moral conflict and priority of prosocial over pro-environmental values
-    authors:
-      - Leslie Tricoche
-      - Claus Lamm
-      - Damien Brevers
-      - Emilie A. Caspar
-    publisher: PsyArXiv (preprint)
-    releaseDate: 2026
-    url: https://osf.io/preprints/psyarxiv/9kspn_v1
+      - title: Contrasting the classic effect of reward on attentional priority maps: Behavioral evidence for an attentional gating of spatially-specific reward signals
+        authors:
+          - Bruno Beffara
+          - Fouad Hadj-Bouziane
+          - Sliman Ben Hamed
+          - Irene Cristofori
+          - Leslie Tricoche
+          - Nico Boehler
+          - Leonardo Chelazzi
+          - Elena Santandrea
+          - Emiliano Macaluso
+        publisher: PsyArXiv (preprint)
+        releaseDate: 2026
+        url: https://osf.io/preprints/psyarxiv/zgkj8_v2
 
-  - title: Contrasting the classic effect of reward on attentional priority maps: Behavioral evidence for an attentional gating of spatially-specific reward signals
-    authors:
-      - Bruno Beffara
-      - Fouad Hadj-Bouziane
-      - Sliman Ben Hamed
-      - Irene Cristofori
-      - Leslie Tricoche
-      - Nico Boehler
-      - Leonardo Chelazzi
-      - Elena Santandrea
-      - Emiliano Macaluso
-    publisher: PsyArXiv (preprint)
-    releaseDate: 2026
-    url: https://osf.io/preprints/psyarxiv/zgkj8_v2
+      - title: The power of social influence on (non-)moral decision-making and its resistance: A scoping review of behavioral effects and neural mechanisms
+        authors:
+          - Leslie Tricoche
+          - Emilie A. Caspar
+        publisher: OSF Preprint
+        releaseDate: 2026
+        url: https://osf.io/preprints/osf/s6jtk_v3
 
-  - title: The power of social influence on (non-)moral decision-making and its resistance: A scoping review of behavioral effects and neural mechanisms
-    authors:
-      - Leslie Tricoche
-      - Emilie A. Caspar
-    publisher: OSF Preprint
-    releaseDate: 2026
-    url: https://osf.io/preprints/osf/s6jtk_v3
-    
-  - title: Neuro-cognitive specificities in prosocial disobedience: A comparative fMRI study of civilian and military populations
-    authors:
-      - Leslie Tricoche
-      - Alessia Rovai
-      - Salvatore Lo Bue
-      - Emilie A. Caspar
-    publisher: PLOS ONE
-    releaseDate: 2025
-    url: https://doi.org/10.1371/journal.pone.0328407
+      - title: Neuro-cognitive specificities in prosocial disobedience: A comparative fMRI study of civilian and military populations
+        authors:
+          - Leslie Tricoche
+          - Alessia Rovai
+          - Salvatore Lo Bue
+          - Emilie A. Caspar
+        publisher: PLOS ONE
+        releaseDate: 2025
+        url: https://doi.org/10.1371/journal.pone.0328407
 
-  - title: From social inhibition in childhood to social facilitation in adulthood: How social presence systematically enhances the predominant response strategy in cognitive tasks
-    authors:
-      - Leslie Tricoche
-      - Amelie Reynaud
-      - Denis Pelisson
-      - Jerome Prado
-      - Martine Meunier
-    publisher: Journal of Experimental Child Psychology
-    releaseDate: 2025
-    url: https://doi.org/10.1016/j.jecp.2025.106340
+      - title: From social inhibition in childhood to social facilitation in adulthood: How social presence systematically enhances the predominant response strategy in cognitive tasks
+        authors:
+          - Leslie Tricoche
+          - Amelie Reynaud
+          - Denis Pelisson
+          - Jerome Prado
+          - Martine Meunier
+        publisher: Journal of Experimental Child Psychology
+        releaseDate: 2025
+        url: https://doi.org/10.1016/j.jecp.2025.106340
 
-  - title: An fMRI study on the neural correlates of resistance to immoral orders
-    authors:
-      - Leslie Tricoche
-      - Alessia Rovai
-      - Emilie A. Caspar
-    publisher: Imaging Neuroscience
-    releaseDate: 2024
-    url: https://doi.org/10.1162/imag_a_00392
+      - title: An fMRI study on the neural correlates of resistance to immoral orders
+        authors:
+          - Leslie Tricoche
+          - Alessia Rovai
+          - Emilie A. Caspar
+        publisher: Imaging Neuroscience
+        releaseDate: 2024
+        url: https://doi.org/10.1162/imag_a_00392
 
-  - title: Neural bases of social facilitation and inhibition: how peer presence affects elementary eye movements
-    authors:
-      - Leslie Tricoche
-      - Marion Royer d'Halluin
-      - Martine Meunier
-      - Denis Pelisson
-    publisher: Social Cognitive and Affective Neuroscience
-    releaseDate: 2024
-    url: https://doi.org/10.1093/scan/nsae079
+      - title: Neural bases of social facilitation and inhibition: how peer presence affects elementary eye movements
+        authors:
+          - Leslie Tricoche
+          - Marion Royer d'Halluin
+          - Martine Meunier
+          - Denis Pelisson
+        publisher: Social Cognitive and Affective Neuroscience
+        releaseDate: 2024
+        url: https://doi.org/10.1093/scan/nsae079
 
-  - title: Developmental Trajectory of Anticipation: Insights from Sequential Comparative Judgments
-    authors:
-      - Leslie Tricoche
-      - Martine Meunier
-      - Sirine Hassen
-      - Jerome Prado
-      - Denis Pelisson
-    publisher: Behavioral Sciences
-    releaseDate: 2023
-    url: https://doi.org/10.3390/bs13080646
+      - title: Developmental Trajectory of Anticipation: Insights from Sequential Comparative Judgments
+        authors:
+          - Leslie Tricoche
+          - Martine Meunier
+          - Sirine Hassen
+          - Jerome Prado
+          - Denis Pelisson
+        publisher: Behavioral Sciences
+        releaseDate: 2023
+        url: https://doi.org/10.3390/bs13080646
 
-  - title: Task-independent neural bases of peer presence effect on cognition in children and adults
-    authors:
-      - Leslie Tricoche
-      - Denis Pelisson
-      - Lea Longo
-      - Eric Kounde
-      - Alice Poisson
-      - Jerome Prado
-      - Martine Meunier
-    publisher: NeuroImage
-    releaseDate: 2023
-    url: https://doi.org/10.1016/j.neuroimage.2023.120247
+      - title: Task-independent neural bases of peer presence effect on cognition in children and adults
+        authors:
+          - Leslie Tricoche
+          - Denis Pelisson
+          - Lea Longo
+          - Eric Kounde
+          - Alice Poisson
+          - Jerome Prado
+          - Martine Meunier
+        publisher: NeuroImage
+        releaseDate: 2023
+        url: https://doi.org/10.1016/j.neuroimage.2023.120247
 
-  - title: Peer Presence Effect on Numerosity and Phonological Comparisons in 4th Graders: When Working with a Schoolmate Makes Children More Adult-like
-    authors:
-      - Leslie Tricoche
-      - Elisabetta Monfardini
-      - Amelie J. Reynaud
-      - Justine Epinat-Duclos
-      - Denis Pelisson
-      - Jerome Prado
-      - Martine Meunier
-    publisher: Biology
-    releaseDate: 2021
-    url: https://doi.org/10.3390/biology10090902
+      - title: Peer Presence Effect on Numerosity and Phonological Comparisons in 4th Graders: When Working with a Schoolmate Makes Children More Adult-like
+        authors:
+          - Leslie Tricoche
+          - Elisabetta Monfardini
+          - Amelie J. Reynaud
+          - Justine Epinat-Duclos
+          - Denis Pelisson
+          - Jerome Prado
+          - Martine Meunier
+        publisher: Biology
+        releaseDate: 2021
+        url: https://doi.org/10.3390/biology10090902
 
-  - title: Peer Presence Effects on Eye Movements and Attentional Performance
-    authors:
-      - Leslie Tricoche
-      - Johan Ferrand-Verdejo
-      - Denis Pelisson
-      - Martine Meunier
-    publisher: Frontiers in Behavioral Neuroscience
-    releaseDate: 2020
-    url: https://doi.org/10.3389/fnbeh.2019.00280
-
+      - title: Peer Presence Effects on Eye Movements and Attentional Performance
+        authors:
+          - Leslie Tricoche
+          - Johan Ferrand-Verdejo
+          - Denis Pelisson
+          - Martine Meunier
+        publisher: Frontiers in Behavioral Neuroscience
+        releaseDate: 2020
+        url: https://doi.org/10.3389/fnbeh.2019.00280
 
     Certificates:
-
-        - name: (Re-)Certification of first aid actions (at work)
+      - name: (Re-)Certification of first aid actions (at work)
         date: 2026
         issuer: Bordeaux, France
         icon: fa-solid fa-bahai
-        
-      - name: Certification to monitor 3.0T Siemens trio scanners
+
+      - name: Certification to monitor 3.0T Siemens Trio scanners
         date: 2024
         issuer: Brussels, Belgium
         icon: fa-solid fa-bahai
@@ -261,8 +254,7 @@ Publications:
         icon: fa-solid fa-bahai
 
     Projects:
-    
-      - name: BD InScience INSERM project Vol.2 
+      - name: BD InScience INSERM project Vol. 2
         summary: My PhD work was adapted into a comic book format.
         highlights:
           - https://www.inserm.fr/culture-scientifique/bande-dessinee-inscience-cultive-ta-sante-avec-linserm/
