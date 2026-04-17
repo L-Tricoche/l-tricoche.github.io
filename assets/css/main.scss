@@ -55,9 +55,18 @@
   margin-bottom: 0;
 }
 
+.profile.float-right {
+  margin-left: 2.5rem;
+  max-width: 280px;
+}
+
 .profile img {
   width: 100%;
   height: auto;
+}
+
+.post .clearfix {
+  overflow: visible;
 }
 
 
