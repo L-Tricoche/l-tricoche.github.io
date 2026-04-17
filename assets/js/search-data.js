@@ -60,8 +60,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-new-blog-post-available-in-french-and-english-apprendre-ensemble-les-autres-comme-moteurs-ou-freins-de-notre-curiosité",
-          title: 'New blog post available (in French and English): Apprendre ensemble : les autres...',
+            },},{id: "news-new-blog-post-available-in-english-and-french-learning-together-how-others-can-fuel-or-hinder-our-curiosity-apprendre-ensemble-les-autres-comme-moteurs-ou-freins-de-notre-curiosité",
+          title: 'New blog post available (in English and French): Learning together: how others can...',
           description: "",
           section: "News",},{id: "news-i-will-be-taking-part-in-the-upcoming-pint-of-science-festival-in-bordeaux-taking-place-from-may-18th-to-20th-this-international-event-brings-researchers-into-local-bars-to-share-and-discuss-science-with-the-public-in-an-informal-setting-book-your-spot-here",
           title: 'I will be taking part in the upcoming Pint of Science festival in...',
