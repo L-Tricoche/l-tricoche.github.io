@@ -10,7 +10,7 @@ thumbnail: assets/img/9.jpg
 ---
 
 <figure style="text-align: center;">
-  <img src="/assets/img/Gateaux.png" width="80%" />
+  <img src="/assets/img/Gateaux.PNG" width="80%" />
 </figure>
 
 
