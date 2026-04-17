@@ -10,11 +10,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>leslie.tricoche@ecomail.fr</p>
+    <p><a href="mailto:leslie.tricoche@ecomail.fr">leslie.tricoche@ecomail.fr</a></p>
 
 selected_papers: false
 social: true
-announcements: true
+news: true
 ---
 
 My research lies at the intersection of **social psychology** and **cognitive neuroscience**. It focuses on understanding the mechanisms and neural substrates underlying **human decision-making in social contexts**, as well as their **developmental trajectories** from childhood through adolescence to adulthood.
