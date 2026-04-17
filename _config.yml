@@ -16,7 +16,8 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: social psychology, cognitive neurosciences, development, decision-making processes # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: "🌿" # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+#icon: "🌿" # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: "icon.png"
 
 url: "https://l-tricoche.github.io" 
 baseurl: ""
