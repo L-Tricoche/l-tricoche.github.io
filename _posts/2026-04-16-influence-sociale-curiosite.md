@@ -6,7 +6,7 @@ description: "Comment la présence, le regard et l’activité des autres influe
 tags: [curiosité, motivation, apprentissage, influence sociale, éducation]
 categories: [recherche]
 featured: false
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/Gateaux.PNG
 ---
 
 <figure style="text-align: center;">
