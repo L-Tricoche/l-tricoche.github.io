@@ -25,11 +25,11 @@ The honest answer: probably all of the above. And it is precisely this overlap o
 
 ## Intrinsic and extrinsic motivation: an inseparable duo
 
-To address this question, we first need to establish some conceptual foundations. Since the seminal work of E. Deci (1975), two major types of motivation have been distinguished.
-**Extrinsic motivation** refers to actions driven by external rewards or the avoidance of punishment—such as grades, salary, or social approval.
+To address this question, we first need to establish some conceptual foundations. Since the seminal work of E. Deci (1975), two major types of motivation have been distinguished.<br>
+**Extrinsic motivation** refers to actions driven by external rewards or the avoidance of punishment—such as grades, salary, or social approval.<br>
 **Intrinsic motivation**, on the other hand, refers to engaging in an activity for the inherent pleasure and satisfaction it provides, without any obvious external incentive.
 
-Rather than being strictly opposed, these two forms of motivation often coexist and interact in most of our behaviors. Among the different types of intrinsic motivation, we find the desire to learn—also known as **curiosity** —which can be defined as a dynamic process that drives individuals toward spontaneous exploration and the active search for new knowledge. Curiosity is therefore a key driver of (self-directed) learning, present from birth, guiding attention, sustaining engagement, and enhancing memory retention 
+Rather than being strictly opposed, these two forms of motivation often coexist and interact in most of our behaviors. Among the different types of intrinsic motivation, we find the desire to learn—also known as **curiosity** —which can be defined as a dynamic process that drives individuals toward spontaneous exploration and the active search for new knowledge. Curiosity is therefore a key driver of (self-directed) learning, present from birth, guiding attention, sustaining engagement, and enhancing memory retention.
 
 Understanding this learning-related curiosity lies at the core of the work conducted by the **Flowers team at INRIA Bordeaux Sud-Ouest** ([Team website](https://flowers.inria.fr/)). One of their main goals is to understand how curiosity emerges, develops, and can be supported in real-world learning environments. Understanding these mechanisms is crucial for designing more effective educational tools, particularly for children.
 
@@ -38,10 +38,10 @@ But do situations truly exist where we can learn “alone,” in a complete soci
 
 ## Self-Determination Theory: when the social context comes into play
 
-To understand the links between motivation and environment, **Self-Determination Theory (SDT)** developed by Deci and Ryan (1985) provides a key theoretical framework ([Learn more](https://selfdeterminationtheory.org/the-theory/)). This macro-theory aims to identify what enhances—or disrupts—intrinsic motivation. It highlights **three fundamental psychological needs** whose satisfaction supports intrinsic motivation:
-  • **Autonomy**: feeling that one is the origin of one’s own actions and choices,
-  • **Competence**: experiencing a sense of effectiveness,
-  • **Relatedness**: feeling connected to others, recognized and accepted.
+To understand the links between motivation and environment, **Self-Determination Theory (SDT)** developed by Deci and Ryan (1985) provides a key theoretical framework ([Learn more](https://selfdeterminationtheory.org/the-theory/)). This macro-theory aims to identify what enhances—or disrupts—intrinsic motivation. It highlights **three fundamental psychological needs** whose satisfaction supports intrinsic motivation:<br>
+  • **Autonomy**: feeling that one is the origin of one’s own actions and choices,<br>
+  • **Competence**: experiencing a sense of effectiveness,<br>
+  • **Relatedness**: feeling connected to others, recognized and accepted.<br>
   
 One of its sub-theories, **Cognitive Evaluation Theory (CET)**, focuses specifically on the role of **social context**. According to CET, a social environment that supports these three needs enhances intrinsic motivation.
 
@@ -58,15 +58,14 @@ As described in Bandura’s **Social Learning Theory** (1977), we learn not only
 
 This phenomenon likely serves two functions: a cognitive and instrumental one, supporting learning and understanding others’ actions, and a social one, enabling affiliation and communication. This highlights how deeply our brains are tuned to social information.
 
-From a neural perspective, imitation is supported by the **mirror neuron system**, initially identified in non-human primates (Rizzolatti & Craighero, 2004), and extended in humans to regions involved in understanding others’ intentions and emotions. Social learning extends far beyond motor processes—it shapes our beliefs, values, judgments, and ultimately our decisions. 
+Moreover, to briefly address brain networks, this imitation system is notably supported by the **mirror neuron system**, initially identified in the 1990s in non-human primates (Rizzolatti & Craighero, 2004), and whose functional scope (in humans) extends beyond motor areas to include regions involved in understanding others’ intentions and emotions. Indeed, social learning is not limited to the motor domain. It extends to our beliefs, values, judgments, and ultimately our decisions. We continuously revise our knowledge in light of what others do or think—a mechanism that **Bayesian theories of reinforcement learning** model in terms of probabilistic inference, where social signals constitute essential information to integrate in order to reduce uncertainty (see, for example, Hofmans and van den Bos, 2022). Among the explicit forms of social influence that enable this updating of our knowledge is **conformity**.
 
-We continuously update our knowledge based on what others do or think—a mechanism described by **Bayesian reinforcement learning** models, where social signals are integrated to reduce uncertainty (see Hofmans & van den Bos, 2022). Among the explicit forms of social influence driving this updating process is **conformity**.
 
 <figure style="text-align: center;">
   <img src="/assets/img/Figure_SocialLearning.jpg" width="70%" />
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
-    <strong>Top figure:</strong> from Arioli and Canessa (2019) in <em>Human Brain Mapping</em>:brain network involved in social learning (learning by observation), including premotor cortex, parietal areas, inferior frontal gyrus, superior temporal sulcus, and occipital regions.<br>
+    <strong>Top figure:</strong> from Arioli and Canessa (2019) in <em>Human Brain Mapping</em>: brain network involved in social learning (learning by observation), including premotor cortex, parietal areas, inferior frontal gyrus, superior temporal sulcus, and occipital regions.<br>
     <strong>Bottom figure:</strong> from Hofmans and van den Bos (2022) in <em>Developmental Cognitive Neuroscience</em>: Bayesian updating of beliefs as a function of the social characteristics of the source. Social information is weighted according to its perceived reliability (expertise, status, proximity): it has a weaker impact when it comes from a low-credibility source (top diagram) and a stronger impact when it comes from a reliable source (bottom diagram). This differential weighting leads to a greater or lesser revision of the initial belief.
   </figcaption>
 </figure>
@@ -102,8 +101,8 @@ Three **forms of social presence** are typically distinguished:
   <img src="/assets/img/Figure_SimplePresence.jpg" width="70%" />
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
-    <strong>Top diagram:</strong> experimental device used by Triplett in his 1898 study on the mere presence effect in children. It was a device resembling a fishing rod, in which children had to turn a reel as quickly as possible.<br>
-    <strong>Bottom diagram:</strong> the three types of mere presence represented in an example of a racing situation. One can distinguish passive audience, evaluation, and coaction.
+    <strong>Top figure:</strong> experimental device used by Triplett in his 1898 study on the mere presence effect in children. It was a device resembling a fishing rod, in which children had to turn a reel as quickly as possible.<br>
+    <strong>Bottom figure:</strong> the three types of mere presence represented in an example of a racing situation. One can distinguish passive audience, evaluation, and coaction.
   </figcaption>
 </figure>
 
