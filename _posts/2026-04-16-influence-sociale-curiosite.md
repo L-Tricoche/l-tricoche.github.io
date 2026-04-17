@@ -59,7 +59,7 @@ Ce phénomène aurait deux fonctions principales : une fonction cognitive et ins
 D’ailleurs pour parler un peu de réseaux cérébraux, ce système d'imitation est notamment soutenu par **le réseau des neurones miroirs**, initialement identifiés dans les années 1990 chez le primate non-humain (Rizzolatti & Craighero, 2004), et dont l'étendue fonctionnelle (chez l'humain) dépasse les seules aires motrices pour inclure des régions impliquées dans la compréhension des intentions et des émotions d'autrui. En effet, l’apprentissage social ne se limite pas au domaine moteur. Il s'étend à nos croyances, valeurs, jugements et, in fine, nos décisions. Nous révisons continuellement nos connaissances à la lumière de ce que font ou pensent les autres — un mécanisme que les **théories bayésiennes de l'apprentissage par renforcement** modélisent sous forme d'inférence probabiliste, où les signaux sociaux constituent des informations essentielles à intégrer pour réduire l'incertitude (voir par exemple Hofmans et van den Bos, 2022). Parmi les formes explicites d’influence sociale permettant cette mise à jour de nos connaissances, on trouve notamment la **conformité**.
 
 <figure style="text-align: center;">
-  <img src="/assets/img/Figure_SocialLearning.jpg" width="80%" />
+  <img src="/assets/img/Figure_SocialLearning.jpg" width="70%" />
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
     <strong>*Figure du haut :</strong> d’après Arioli et Canessa (2019) dans <em>Human Brain Mapping</em> : réseau cérébral impliqué dans l’apprentissage social (action par l’observation) incluant le cortex prémoteur, des aires pariétales dont les lobules pariétaux supérieur, inférieur et le sulcus pariétal inférieur, le gyrus frontal inférieur, une partie du sulcus temporal supérieur et des régions occipitales.
@@ -94,7 +94,7 @@ On distingue typiquement trois **formes de présence sociale** :
 [Pour un contenu plus exhaustif sur l’effet de simple présence](https://theses.hal.science/tel-04196751) 
 
 <figure style="text-align: center;">
-  <img src="/assets/img/Figure_SimplePresence.jpg" width="80%" />
+  <img src="/assets/img/Figure_SimplePresence.jpg" width="70%" />
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
     <strong>Schéma du haut :</strong> dispositif expérimental utilisé par Triplett dans son étude sur l’effet de simple présence chez les enfants en 1898. Il s’agit d’un dispositif s’apparentant à une canne à pêche où les enfants devaient tourner un moulinet le plus rapidement possible.
@@ -109,7 +109,7 @@ J’ai effectué un état des lieux de la base de données PubMed, croisant les 
 Quelques études en lien avec les compétences éducatives, chez l’enfant et l’adolescent, montrent des effets de présence sociale, notamment sur **le raisonnement** (Wolf et al., 2015), **la créativité** (Camarda et al., 2021) ou **les compétences numériques et langagières** (Tricoche et al., 2021). De plus, des études en neuroimagerie semblent indiquer que la présence d’une autre personne n’agisse pas seulement sur les **processus attentionnels**, mais également sur les **processus motivationnels et émotionnels**, et ce même en l’absence de toute récompense explicite (Tricoche et al., 2023). Autrement dit, autrui, par sa simple présence, pourrait être une forme de motivation extrinsèque implicite, capable d'influencer la motivation intrinsèque, sans que les individus n’en aient nécessairement conscience. Egalement, des régions cérébrales en jeu dans la **cognition sociale** sont activées lorsqu’autrui est présent, afin de permettre le **processus de mentalisation**. En effet, dès qu'un autre être humain entre dans notre environnement, nos processus de mentalisation s'activent — cette capacité à inférer les états mentaux d'autrui, communément appelée **théorie de l'esprit**. « Il me voit », « que pense-t-il de ma performance ? », « est-ce qu'il m'apprécie ? » : ces questions, même formulées de façon inconsciente, mobilisent des ressources cognitives et émotionnelles qui modifient notre engagement dans la tâche. Autrui devient alors associé à une forme de récompense sociale implicite — être bien perçu, approuvé, accepté.
 
 <figure style="text-align: center;">
-  <img src="/assets/img/Figure_Brain.jpg" width="80%" />
+  <img src="/assets/img/Figure_Brain.jpg" width="70%" />
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
     <strong>Figure du haut :</strong> d’après Arioli et Canessa (2019) dans <em>Human Brain Mapping</em> : réseau cérébral impliqué dans la mentalisation (théorie de l’esprit) incluant principalement la jonction temporo-pariétale, le cortex préfrontal médian, et le precuneus s’étendant sur le cortex cingulaire postérieur.
@@ -127,7 +127,7 @@ L'équipe est connue pour ses travaux sur les mécanismes computationnels de la 
 Cependant, jusqu’à présent, ces travaux se sont principalement concentrés sur les dynamiques individuelles de la curiosité. L’intégration explicite des facteurs sociaux constitue donc une extension naturelle de ce programme de recherche. 
 
 <figure style="text-align: center;">
-  <img src="/assets/img/Figure_Tasks.jpg" width="80%" />
+  <img src="/assets/img/Figure_Tasks.jpg" width="60%" />
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
     Paradigmes étudiant comment les individus orientent leurs choix d’exploration en fonction du progrès d’apprentissage. 
