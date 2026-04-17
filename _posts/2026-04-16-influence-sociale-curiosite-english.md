@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Apprendre ensemble : les autres comme moteurs (ou freins ?) de notre curiosité"
+title: "Learning together: how others can fuel (or hinder) our curiosity"
 date: 2026-04-16 10:00:00 +0200
-description: "Comment la présence, le regard et l’activité des autres influencent-ils notre motivation à apprendre et notre curiosité ?"
-tags: [curiosité, motivation, apprentissage, influence sociale, éducation]
+description: "How do the presence, gaze, and activity of others influence our motivation to learn and our curiosity?"
+tags: [curiosity, motivation, learning, social influence, education]
 categories: [recherche]
 featured: false
 thumbnail: assets/img/Gateaux.PNG
@@ -14,137 +14,143 @@ thumbnail: assets/img/Gateaux.PNG
 </figure>
 
 
-## Une histoire de gâteaux « motivateurs »
+## A story of “motivating” cakes
 
-Il y a quelques jours, notre équipe s'est retrouvée autour d'une table pour une session d'écriture collective — un « blogathon », comme il a été baptisé. Chacun·e devait rédiger un billet sur un sujet de recherche de son choix en lien avec les axes de l’équipe. L’objectif était d’apprendre ou de s’entraîner à écrire du contenu scientifique dans ce type de format. Entre deux bouchées des petits gâteaux apportés par une collègue, j'ai commencé à taper les premières lignes… une situation qui illustrait, en condition réelle, le sujet que je souhaitais aborder.
+A few days ago, our team gathered around a table for a collective writing session — a “blogathon,” as we called it. Each of us had to write a post on a research topic related to the team’s focus. The goal was to learn or practice writing scientific content in this format. Between bites of the small cakes brought by a colleague, I started typing my first lines… a situation that perfectly illustrated, in real conditions, the very topic I wanted to address.
 
-Pourquoi suis-je en train d'écrire cet article ? Pour apprendre factuellement à écrire un blog ? Par envie de partager mes travaux ? Pour approfondir ma propre compréhension de la littérature en faisant le point ? Par désir d'appartenir à une dynamique d'équipe, lancée par notre directeur ? Parce que mes collègues étaient là, eux aussi en train d'écrire, créant autour de moi une atmosphère de travail studieux et bienveillant ?
+Why am I writing this article? To learn how to write a blog post? To share my research? To deepen my own understanding of the literature? To be part of a team dynamic initiated by our director? Because my colleagues were there too, writing, creating a focused and supportive working atmosphere around me?
 
-La réponse honnête : probablement tout à la fois. Et c'est précisément cette superposition de motivations, reflet de nombreuses activités du quotidien, qui nous conduit à réfléchir à une question fondamentale pour les sciences cognitives et les sciences de l'éducation : dans quelle mesure les autres — leur simple présence, leur regard, leur activité — influencent-ils notre motivation à apprendre ?
-
-
-## Motivation intrinsèque et extrinsèque : un duo inséparable
-
-Pour répondre à cette question, il faut d'abord poser quelques bases conceptuelles. Depuis les travaux fondateurs de E. Deci (1975), on distingue deux grandes formes de motivation. 
-La **motivation extrinsèque** désigne ce qui nous pousse à agir pour obtenir une récompense externe ou éviter une punition — une note, un salaire, une approbation sociale. 
-La **motivation intrinsèque**, elle, renvoie à l'engagement spontané dans une activité pour le plaisir et la satisfaction qu'elle procure en elle-même, sans carotte ni bâton apparent. 
-
-Plutôt que de s’opposer strictement, ces deux formes semblent coexister et s’articuler dans la plupart de nos comportements. Parmi les différents types de motivation intrinsèque, on retrouve l’envie d’apprendre, aussi appelée **curiosité**, qui se définit comme un processus dynamique poussant l’individu à l’exploration spontanée et à la recherche active de nouvelles connaissances. La curiosité est donc un moteur d’apprentissage (auto-dirigé) important, en place dès la naissance, qui oriente l’attention, prolonge l’engagement dans une tâche, et favorise la rétention en mémoire des informations acquises. 
-
-C'est la compréhension de cette curiosité d’apprentissage qui est au cœur des travaux de **l'équipe Flowers de l’INRIA Bordeaux Sud-Ouest** ([Site de l'équipe](https://flowers.inria.fr/)). Particulièrement, l’un des objectifs majeurs est de comprendre comment la curiosité émerge, se structure et peut être soutenue dans des environnements d’apprentissage réels. Comprendre ces mécanismes constitue un enjeu clé pour concevoir des dispositifs éducatifs plus efficaces, notamment chez l’enfant.
-
-Mais existe-t-il vraiment des situations où l’on peut apprendre "seul", dans un vide social ?
+The honest answer: probably all of the above. And it is precisely this overlap of motivations—reflecting many everyday activities—that leads us to a fundamental question in cognitive and educational sciences: to what extent do others—their mere presence, their gaze, their activity—influence our motivation to learn?
 
 
-## La théorie de l'autodétermination : quand le contexte social entre en scène
+## Intrinsic and extrinsic motivation: an inseparable duo
 
-Pour penser les liens entre motivation et environnement, la **théorie de l'autodétermination** (Self-Determination Theory, SDT) développée par Deci et Ryan (1985) constitue le cadre théorique de référence ([Pour en savoir plus](https://selfdeterminationtheory.org/the-theory/)). Cette macro-théorie cherche à comprendre ce qui stimule — ou au contraire perturbe — notre motivation intrinsèque. Elle identifie **trois besoins psychologiques** fondamentaux dont la satisfaction est nécessaire pour que la motivation intrinsèque se renforce :
-  •	**L'autonomie** (ou agentivité) : sentir que l'on est à l'origine de ses propres actions et choix,
-  •	**La compétence** : éprouver un sentiment d'efficacité, 
-  •	**Le sentiment** d’appartenance sociale : se sentir connecté aux autres, reconnu et accepté.
+To address this question, we first need to establish some conceptual foundations. Since the seminal work of E. Deci (1975), two major types of motivation have been distinguished.
+**Extrinsic motivation** refers to actions driven by external rewards or the avoidance of punishment—such as grades, salary, or social approval.
+**Intrinsic motivation**, on the other hand, refers to engaging in an activity for the inherent pleasure and satisfaction it provides, without any obvious external incentive.
+
+Rather than being strictly opposed, these two forms of motivation often coexist and interact in most of our behaviors. Among the different types of intrinsic motivation, we find the desire to learn—also known as **curiosity** —which can be defined as a dynamic process that drives individuals toward spontaneous exploration and the active search for new knowledge. Curiosity is therefore a key driver of (self-directed) learning, present from birth, guiding attention, sustaining engagement, and enhancing memory retention 
+
+Understanding this learning-related curiosity lies at the core of the work conducted by the **Flowers team at INRIA Bordeaux Sud-Ouest** ([Team website](https://flowers.inria.fr/)). One of their main goals is to understand how curiosity emerges, develops, and can be supported in real-world learning environments. Understanding these mechanisms is crucial for designing more effective educational tools, particularly for children.
+
+But do situations truly exist where we can learn “alone,” in a complete social vacuum?
+
+
+## Self-Determination Theory: when the social context comes into play
+
+To understand the links between motivation and environment, **Self-Determination Theory (SDT)** developed by Deci and Ryan (1985) provides a key theoretical framework ([Learn more](https://selfdeterminationtheory.org/the-theory/)). This macro-theory aims to identify what enhances—or disrupts—intrinsic motivation. It highlights **three fundamental psychological needs** whose satisfaction supports intrinsic motivation:
+  • **Autonomy**: feeling that one is the origin of one’s own actions and choices,
+  • **Competence**: experiencing a sense of effectiveness,
+  • **Relatedness**: feeling connected to others, recognized and accepted.
   
-L'une de ses sous-théories, la **Cognitive Evaluation Theory (CET)**, s'intéresse précisément à **l'effet du contexte social**. Selon la CET, un contexte social qui soutient les trois besoins psychologiques booste la motivation intrinsèque. 
+One of its sub-theories, **Cognitive Evaluation Theory (CET)**, focuses specifically on the role of **social context**. According to CET, a social environment that supports these three needs enhances intrinsic motivation.
 
-Bien que la curiosité soit une forme particulière de motivation intrinsèque, important à considérer en elle-même, elle reste jusqu’à présent peu étudiée dans le cadre strict de la SDT. Pour autant, la CET pourrait s’y appliquer, puisque la curiosité pourrait également être sensible au contexte social – forme de récompense extrinsèque, en particulier dans des cadres éducatifs (Deci, Koestner & Ryan, 2001). En effet, des feedbacks positifs, une relation de confiance avec un pair ou un enseignant, un sentiment d'être compris et valorisé : autant d'ingrédients susceptibles de nourrir l'envie d'apprendre. À l'inverse, un environnement perçu comme coercitif, très compétitif, ou centré sur l'évaluation-sanction, peut fragiliser cette même motivation d’apprentissage.
+Although curiosity is a specific form of intrinsic motivation, it has so far been relatively understudied within the SDT framework. Nevertheless, CET could still apply, as curiosity may also be sensitive to social context—particularly in educational settings where social interactions can act as a form of extrinsic influence (Deci, Koestner & Ryan, 2001). Positive feedback, trustful relationships with peers or teachers, and a sense of being understood and valued are all factors that can foster the desire to learn. Conversely, environments perceived as coercive, highly competitive, or strongly focused on evaluation may undermine this motivation.
 
-Ainsi, la curiosité ne serait pas uniquement une affaire individuelle : elle pourrait au contraire être profondément façonnée par le contexte social dans lequel elle s’exprime. Reste à comprendre par quels mécanismes, et à quelles conditions, la présence et l'influence des autres nourrissent — ou au contraire freinent — notre envie d'apprendre. Pour tenter de répondre, il faut remonter aux racines de l'influence sociale sur l'apprentissage humain, influence qui commence bien avant l'école, et bien avant que la notion de pression ou de récompense sociale ait un sens. Dès les premiers mois de vie, c'est en explorant, mais aussi en observant autrui que l'on apprend. 
+Thus, curiosity may not be purely individual—it may instead be deeply shaped by the social context in which it unfolds. The question remains: through which mechanisms, and under what conditions, does the presence and influence of others enhance—or hinder—our desire to learn? To explore this, we must go back to the roots of social influence on human learning—long before school, and even before social pressure or rewards become meaningful. From the very first months of life, learning occurs not only through exploration, but also through observing others.
 
 
-## Apprendre en regardant l'autre : l'apprentissage social
+## Learning by observing others: social learning
 
-L'influence des autres sur nos apprentissages ne commence pas à l'école. Elle débute dès la naissance — voire avant. Les premiers apprentissages du nourrisson reposent massivement sur **l'imitation** : observer pour comprendre, reproduire pour intégrer. Ils se poursuivent et se spécifient ensuite au cours du développement et pendant la vie adulte dans des domaines aussi variés que le sport, la musique ou l’artisanat. Les processus en jeu, décrits dans la **théorie de l'apprentissage social** de A. Bandura (1977), expliquent que nous apprenons non seulement par l'expérience directe, mais aussi par l'observation d'autrui. Cet apprentissage social est si puissant qu'il génère parfois de la sur-imitation (overimitation) : nous reproduisons des gestes ou des comportements même lorsqu'ils ne sont pas fonctionnellement pertinents pour la tâche ou le but actuels — simplement parce que c'est ce qu'ont fait les autres (Hoehl et al., 2019). 
+The influence of others on our learning does not begin at school. It starts at birth—or even earlier. Early learning in infants relies heavily on **imitation**: observing to understand, reproducing to internalize. These processes continue and become more specialized throughout development and adulthood in domains such as sports, music, or craftsmanship.
 
-Ce phénomène aurait deux fonctions principales : une fonction cognitive et instrumentale permettant de potentialiser les apprentissages et la compréhension de l’action d’autrui ; et une fonction sociale pour communiquer et s’affilier à autrui. Cela illustre à quel point notre cerveau est construit pour accorder de l'importance aux informations sociales.
+As described in Bandura’s **Social Learning Theory** (1977), we learn not only through direct experience, but also by observing others. This form of learning is so powerful that it can lead to overimitation: we reproduce actions even when they are not functionally necessary—simply because others performed them (Hoehl et al., 2019).
 
-D’ailleurs pour parler un peu de réseaux cérébraux, ce système d'imitation est notamment soutenu par **le réseau des neurones miroirs**, initialement identifiés dans les années 1990 chez le primate non-humain (Rizzolatti & Craighero, 2004), et dont l'étendue fonctionnelle (chez l'humain) dépasse les seules aires motrices pour inclure des régions impliquées dans la compréhension des intentions et des émotions d'autrui. En effet, l’apprentissage social ne se limite pas au domaine moteur. Il s'étend à nos croyances, valeurs, jugements et, in fine, nos décisions. Nous révisons continuellement nos connaissances à la lumière de ce que font ou pensent les autres — un mécanisme que les **théories bayésiennes de l'apprentissage par renforcement** modélisent sous forme d'inférence probabiliste, où les signaux sociaux constituent des informations essentielles à intégrer pour réduire l'incertitude (voir par exemple Hofmans et van den Bos, 2022). Parmi les formes explicites d’influence sociale permettant cette mise à jour de nos connaissances, on trouve notamment la **conformité**.
+This phenomenon likely serves two functions: a cognitive and instrumental one, supporting learning and understanding others’ actions, and a social one, enabling affiliation and communication. This highlights how deeply our brains are tuned to social information.
+
+From a neural perspective, imitation is supported by the **mirror neuron system**, initially identified in non-human primates (Rizzolatti & Craighero, 2004), and extended in humans to regions involved in understanding others’ intentions and emotions. Social learning extends far beyond motor processes—it shapes our beliefs, values, judgments, and ultimately our decisions. 
+
+We continuously update our knowledge based on what others do or think—a mechanism described by **Bayesian reinforcement learning** models, where social signals are integrated to reduce uncertainty (see Hofmans & van den Bos, 2022). Among the explicit forms of social influence driving this updating process is **conformity**.
 
 <figure style="text-align: center;">
   <img src="/assets/img/Figure_SocialLearning.jpg" width="70%" />
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
-    <strong>Figure du haut :</strong> d’après Arioli et Canessa (2019) dans <em>Human Brain Mapping</em> : réseau cérébral impliqué dans l’apprentissage social (action par l’observation) incluant le cortex prémoteur, des aires pariétales dont les lobules pariétaux supérieur, inférieur et le sulcus pariétal inférieur, le gyrus frontal inférieur, une partie du sulcus temporal supérieur et des régions occipitales.<br>
-    <strong>Figure du bas :</strong> d’après Hofmans et van den Bos (2022) dans <em>Developmental Cognitive Neuroscience</em> : mise à jour bayésienne des croyances en fonction des caractéristiques sociales de la source. L’information sociale est pondérée selon sa fiabilité perçue (expertise, statut, proximité) : elle a un impact plus faible lorsqu’elle provient d’une source peu crédible (schéma du haut) et plus fort lorsqu’elle provient d’une source fiable (schéma du bas). Cette pondération différentielle conduit à une révision plus ou moins importante de la croyance initiale.
+    <strong>Top figure:</strong> from Arioli and Canessa (2019) in <em>Human Brain Mapping</em>:brain network involved in social learning (learning by observation), including premotor cortex, parietal areas, inferior frontal gyrus, superior temporal sulcus, and occipital regions.<br>
+    <strong>Bottom figure:</strong> from Hofmans and van den Bos (2022) in <em>Developmental Cognitive Neuroscience</em>: Bayesian updating of beliefs as a function of the social characteristics of the source. Social information is weighted according to its perceived reliability (expertise, status, proximity): it has a weaker impact when it comes from a low-credibility source (top diagram) and a stronger impact when it comes from a reliable source (bottom diagram). This differential weighting leads to a greater or lesser revision of the initial belief.
   </figcaption>
 </figure>
 
-## Apprendre par la pression du groupe : la conformité
 
-La conformité, c’est notre tendance à aligner nos jugements et comportements sur ceux du groupe. Récemment synthétisés dans une revue systématique écrite par Emilie Caspar et moi-même (Tricoche et Caspar, en cours de publication, [preprint disponible](https://osf.io/preprints/osf/s6jtk_v3)), les travaux (remontant aux premières évidences par S. Asch dans les années 1950) montrent que nous pouvons aller jusqu'à contredire notre propre perception sensorielle, croyance, et mémoire, pour nous conformer à la majorité.
+## Learning under group pressure: conformity
 
-On distingue deux niveaux d’influence principaux pour expliquer la conformité :
-  •	**L'influence normative** : on se conforme pour être accepté, éviter le rejet, appartenir au groupe,
-  •	**L'influence informationnelle** : on se conforme parce que l’on considère les autres comme une source d'information fiable, surtout dans des situations d'incertitude.
+Conformity is our tendency to align our judgments and behaviors with those of the group. Recently synthesized in a systematic review written by Emilie Caspar and myself (Tricoche and Caspar, currently under publication, [preprint available](https://osf.io/preprints/osf/s6jtk_v3)), this body of work (going back to the first evidence provided by S. Asch in the 1950s) shows that we can go so far as to contradict our own sensory perception, beliefs, and memory in order to conform to the majority.
 
-Ces deux niveaux d’influence ont des implications directes sur l'apprentissage. Si un enfant ou un adulte apprend en milieu social (ce qui est le cas dans la majorité des situations scolaires et professionnelles), ses réponses seront inévitablement influencées par ce qu'il perçoit des croyances et connaissances des autres. Cela peut favoriser une diffusion rapide des connaissances (dans le cas d'une influence informationnelle bienveillante), ou au contraire étouffer l'exploration autonome si la pression normative est trop forte, voir coercitive — compromettant ainsi précisément cette autonomie que la SDT identifie comme essentielle à la motivation intrinsèque.
+Two main levels of influence can be distinguished to explain conformity:  
+  • **Normative influence**: we conform in order to be accepted, avoid rejection, and belong to the group,  
+  • **Informational influence**: we conform because we consider others to be a reliable source of information, especially in situations of uncertainty.  
 
-Les formes d'influence et de contexte sociaux décrits jusqu’ici supposent une interaction ou à minima une information qui vient des autres. Mais qu'en est-il quand aucune information explicite n'est transmise, **quand l'autre est simplement là ?**
+These two levels of influence have direct implications for learning. If a child or an adult learns in a social environment (which is the case in the majority of school and professional situations), their responses will inevitably be influenced by what they perceive of others’ beliefs and knowledge. This can promote a rapid diffusion of knowledge (in the case of benevolent informational influence), or, on the contrary, suppress autonomous exploration if normative pressure is too strong, or even coercive—thereby undermining precisely the autonomy that SDT identifies as essential to intrinsic motivation.
+
+The forms of social influence and social context described so far assume an interaction, or at the very least information coming from others. But what happens when no explicit information is transmitted, **when the other person is simply there?**
 
 
-## Apprendre par la simple présence de l'autre
+## Learning through the mere presence of others
 
-Une chose est sûre : les autres sont toujours là. Nous apprenons entourés de nos pairs, de nos enseignants, de nos collègues — rarement seuls face à une tâche et à l'abri de tout regard. C’est pourquoi il est important de se demander si cette présence, même silencieuse, même passive, suffisait à modifier nos comportements et nos apprentissages (curieux).
+One thing is certain: others are always there. We learn surrounded by our peers, our teachers, our colleagues—rarely alone in front of a task and sheltered from any gaze. This is why it is important to ask whether this presence, even silent, even passive, would be enough to modify our behaviors and our (curiosity-driven) learning.
 
-Les premières preuves de concept autour du **phénomène de simple présence** remontent aux premières observations et expérimentations de Triplett en 1898 qui utilisait un dispositif – d’un visuel un peu archaïque – pour montrer que les enfants étaient plus performants dans une tâche motrice quand ils étaient deux comparés à seuls. Par la suite, de nombreuses études ont validé cet effet positif de la présence d’autrui, mais ont également montré qu’elle pouvait détériorer les performances. Des chercheurs comme Zajonc (1965) et Baron (1968) ont proposé des cadres théoriques pour expliquer cette dualité, que l’on peut résumer — de manière simplifiée — ainsi : la simple présence d’autrui agit comme un **distracteur attentionnel**, améliorant les performances sur des tâches bien maîtrisées, mais pouvant perturber la réussite de tâches nouvelles ou complexes.
+The first proof-of-concept evidence regarding the **mere presence phenomenon** goes back to the earliest observations and experiments by Triplett in 1898, who used a device—with a somewhat archaic appearance—to show that children performed better in a motor task when they were in pairs than when they were alone. Subsequently, many studies validated this positive effect of the presence of others, but also showed that it could impair performance. Researchers such as Zajonc (1965) and Baron (1968) proposed theoretical frameworks to explain this duality, which can be summarized—somewhat simplistically—as follows: the mere presence of others acts as an **attentional distractor**, improving performance on well-mastered tasks, but potentially disrupting success on new or complex tasks.
 
-On distingue typiquement trois **formes de présence sociale** :
-  •	**L'audience passive** : quelqu'un est là, présent, mais n'observe pas nécessairement,
-  •	**L'évaluation** : quelqu'un observe avec un regard potentiellement évaluatif,
-  •	**La coaction** : plusieurs individus réalisent la même tâche au même moment, sans interaction directe – la distinguant ainsi de la coopération ou de la compétition, qui impliquent une interdépendance entre les individus et introduisent un niveau de pression sociale différent. 
-  
-[Pour un contenu plus exhaustif sur l’effet de simple présence](https://theses.hal.science/tel-04196751) 
+Three **forms of social presence** are typically distinguished:  
+  • **Passive audience**: someone is there, present, but does not necessarily observe,  
+  • **Evaluation**: someone is observing with a potentially evaluative gaze,  
+  • **Coaction**: several individuals perform the same task at the same time, without direct interaction—thus distinguishing it from cooperation or competition, which involve interdependence between individuals and introduce a different level of social pressure.  
+
+[For more exhaustive content on the mere presence effect](https://theses.hal.science/tel-04196751) 
 
 <figure style="text-align: center;">
   <img src="/assets/img/Figure_SimplePresence.jpg" width="70%" />
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
-    <strong>Schéma du haut :</strong> dispositif expérimental utilisé par Triplett dans son étude sur l’effet de simple présence chez les enfants en 1898. Il s’agit d’un dispositif s’apparentant à une canne à pêche où les enfants devaient tourner un moulinet le plus rapidement possible.<br>
-    <strong>Schéma du bas :</strong> les trois types de simple présence représentés dans un exemple de situation de course. On distingue l’audience passive, l’évaluation et la coaction.
+    <strong>Top diagram:</strong> experimental device used by Triplett in his 1898 study on the mere presence effect in children. It was a device resembling a fishing rod, in which children had to turn a reel as quickly as possible.<br>
+    <strong>Bottom diagram:</strong> the three types of mere presence represented in an example of a racing situation. One can distinguish passive audience, evaluation, and coaction.
   </figcaption>
 </figure>
 
-Cette forme basique d’influence sociale semble agir sur tout type de comportement, du plus élémentaire (ex : manger, bouger les yeux) au plus complexe (ex : mémoriser, décider, compter) (Guérin, 2010). Qu’en est-il de nos apprentissages et de la motivation intrinsèque associée, en particulier dans des contextes éducatifs ? 
+This basic form of social influence seems to act on every type of behavior, from the most elementary (e.g., eating, moving the eyes) to the most complex (e.g., memorizing, deciding, counting) (Guérin, 2010). What about our learning and the associated intrinsic motivation, particularly in educational contexts? 
 
-J’ai effectué un état des lieux de la base de données PubMed, croisant les termes relatifs à la simple présence d'une part, à la motivation intrinsèque et aux apprentissages d'autre part (études chez l'humain à développement typique, considérant les études originales sur les 20 dernières années, ainsi que les revues et méta-analyses des 10 dernières années), et ai abouti à un constat plutôt surprenant : le champ est presque vide. 
+I carried out a survey of the PubMed database, crossing terms related to mere presence on the one hand, and intrinsic motivation and learning on the other (studies in typically developing humans, considering original studies from the last 20 years, as well as reviews and meta-analyses from the last 10 years), and arrived at a rather surprising conclusion: the field is almost empty. 
 
-Quelques études en lien avec les compétences éducatives, chez l’enfant et l’adolescent, montrent des effets de présence sociale, notamment sur **le raisonnement** (Wolf et al., 2015), **la créativité** (Camarda et al., 2021) ou **les compétences numériques et langagières** (Tricoche et al., 2021). De plus, des études en neuroimagerie semblent indiquer que la présence d’une autre personne n’agisse pas seulement sur les **processus attentionnels**, mais également sur les **processus motivationnels et émotionnels**, et ce même en l’absence de toute récompense explicite (Tricoche et al., 2023). Autrement dit, autrui, par sa simple présence, pourrait être une forme de motivation extrinsèque implicite, capable d'influencer la motivation intrinsèque, sans que les individus n’en aient nécessairement conscience. Egalement, des régions cérébrales en jeu dans la **cognition sociale** sont activées lorsqu’autrui est présent, afin de permettre le **processus de mentalisation**. En effet, dès qu'un autre être humain entre dans notre environnement, nos processus de mentalisation s'activent — cette capacité à inférer les états mentaux d'autrui, communément appelée **théorie de l'esprit**. « Il me voit », « que pense-t-il de ma performance ? », « est-ce qu'il m'apprécie ? » : ces questions, même formulées de façon inconsciente, mobilisent des ressources cognitives et émotionnelles qui modifient notre engagement dans la tâche. Autrui devient alors associé à une forme de récompense sociale implicite — être bien perçu, approuvé, accepté.
+A few studies related to educational skills, in children and adolescents, show effects of social presence, notably on **reasoning** (Wolf et al., 2015), **creativity** (Camarda et al., 2021), or **numerical and language skills** (Tricoche et al., 2021). In addition, neuroimaging studies seem to indicate that the presence of another person does not act only on **attentional processes**, but also on **motivational and emotional processes**, even in the absence of any explicit reward (Tricoche et al., 2023). In other words, others, through their mere presence, could be a form of implicit extrinsic motivation, capable of influencing intrinsic motivation, without individuals necessarily being aware of it. Likewise, brain regions involved in **social cognition** are activated when others are present, in order to enable the **mentalizing process**. Indeed, as soon as another human being enters our environment, our mentalizing processes are activated—this capacity to infer the mental states of others, commonly referred to as **theory of mind**. “They can see me,” “what do they think of my performance?”, “do they like me?”: these questions, even when formulated unconsciously, mobilize cognitive and emotional resources that modify our engagement in the task. Others then become associated with a form of implicit social reward—being well perceived, approved of, accepted.
 
 <figure style="text-align: center;">
   <img src="/assets/img/Figure_Brain.jpg" width="70%" />
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
-    <strong>Figure du haut :</strong> d’après Arioli et Canessa (2019) dans <em>Human Brain Mapping</em> : réseau cérébral impliqué dans la mentalisation (théorie de l’esprit) incluant principalement la jonction temporo-pariétale, le cortex préfrontal médian, et le precuneus s’étendant sur le cortex cingulaire postérieur.<br>
-    <strong>Figure du bas :</strong> d’après Tricoche et al., (2023) dans <em>NeuroImage</em> : de nombreuses régions s’activent plus en présence sociale qu’en condition seule pendant la complétion de tâches cognitives. Ces régions semblent appartenir au réseau attentionnel, au réseau de la mentalisation et au réseau motivationnel (striatum ventral, VS, en particulier).
+    <strong>Top figure:</strong> from Arioli and Canessa (2019) in <em>Human Brain Mapping</em>: brain network involved in mentalizing (theory of mind), including mainly the temporo-parietal junction, the medial prefrontal cortex, and the precuneus extending into the posterior cingulate cortex.<br>
+    <strong>Bottom figure:</strong> from Tricoche et al. (2023) in <em>NeuroImage</em>: numerous regions are more activated in social presence than in the alone condition during the completion of cognitive tasks. These regions seem to belong to the attentional network, the mentalizing network, and the motivational network (the ventral striatum, VS, in particular).
   </figcaption>
 </figure>
 
 
-## L'équipe Flowers dans ce paysage : les premiers jalons
+## The Flowers team in this landscape: the first milestones
 
-C'est précisément sur ce lien encore peu exploré entre apprentissage, motivation et présence sociale, que l'équipe Flowers commence à poser des questions empiriques. 
+It is precisely on this still little explored link between learning, motivation, and social presence that the Flowers team is beginning to raise empirical questions. 
 
-L'équipe est connue pour ses travaux sur les mécanismes computationnels de la curiosité et de la motivation intrinsèque, notamment dans des dispositifs éducatifs, dont certains testés en milieu scolaire. Des paradigmes ont été développés pour répondre spécifiquement à la compréhension des facteurs liés à la curiosité, avec un focus spécifique sur l’hypothèse du **progrès d’apprentissage** (cad, un signal intrinsèque permettant de guider l’exploration vers les activités les plus informatives et celles qui nous font progresser le mieux). Parmi eux, des tâches (gamifiées) dites de **« libre exploration »** où les participants découvrent et explorent librement un environnement riche en activités d’apprentissage à niveaux de difficulté variés (Ten et al., 2021 ; Poli et al., 2025 ; Serko, Leonard & Ruggeri, 2025). Dans ces paradigmes les participants peuvent choisir de continuer une même activité ou de changer vers un autre niveau de difficulté (plus simple ou plus complexe). 
+The team is known for its work on the computational mechanisms of curiosity and intrinsic motivation, notably in educational settings, some of which have been tested in schools. Paradigms have been developed specifically to address the understanding of factors related to curiosity, with a specific focus on the **learning progress** hypothesis (i.e., an intrinsic signal that guides exploration toward the activities that are the most informative and those that make us progress the most). Among them are so-called **“free exploration”** (gamified) tasks in which participants discover and freely explore an environment rich in learning activities with varying levels of difficulty (Ten et al., 2021; Poli et al., 2025; Serko, Leonard & Ruggeri, 2025). In these paradigms, participants can choose to continue the same activity or switch to another level of difficulty (simpler or more complex). 
 
-Cependant, jusqu’à présent, ces travaux se sont principalement concentrés sur les dynamiques individuelles de la curiosité. L’intégration explicite des facteurs sociaux constitue donc une extension naturelle de ce programme de recherche. 
+However, up to now, this work has mainly focused on the individual dynamics of curiosity. The explicit integration of social factors therefore constitutes a natural extension of this research program. 
 
 <figure style="text-align: center;">
   <img src="/assets/img/Figure_Tasks.jpg" width="60%" />
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
-    Paradigmes étudiant comment les individus orientent leurs choix d’exploration en fonction du progrès d’apprentissage.<br>
-    <strong>Figure du haut :</strong> d’après Ten et al., (2021) dans <em>Nature Communications</em> : ‘’Monster Task’’ où il existe différentes familles de monstres avec des règles/comportements cachés que le participant découvre librement. À chaque essai, le participant choisit un monstre, formule une hypothèse sur sa préférence alimentaire, puis reçoit un feedback.<br>
-    <strong>Figure du bas :</strong> d’après Poli et al., (2025) dans <em>Child Development</em> : dans cette tâche d’exploration, le participant interagit avec des personnages en devinant l’emplacement où ils se cachent.
+    Paradigms studying how individuals orient their exploration choices as a function of learning progress.<br>
+    <strong>Top figure:</strong> from Ten et al. (2021) in <em>Nature Communications</em>: “Monster Task,” in which there are different families of monsters with hidden rules/behaviors that the participant freely discovers. At each trial, the participant chooses a monster, formulates a hypothesis about its food preference, then receives feedback.<br>
+    <strong>Bottom figure:</strong> from Poli et al. (2025) in <em>Child Development</em>: in this exploration task, the participant interacts with characters by guessing the place where they are hiding.
   </figcaption>
 </figure>
 
-Un premier pas vers la compréhension de **l'influence sociale sur les apprentissages curieux** a été franchi par une étude conduite par C. Devaux et al., (actuellement en cours de publication). Les résultats suggèrent que lors de sessions d’interventions métacognitives pour améliorer la curiosité dans l’apprentissage, le type d’intervenant avait un impact différent. En effet, la présence de l’enseignant habituel comparativement à celle de l’expérimentateur, au cours de ces sessions, réduisait les performances d’apprentissage et la curiosité des élèves. De plus, des questionnaires subjectifs révélaient une charge cognitive accrue. Possiblement, les dynamiques sociales préexistantes — attentes implicites, relation hiérarchique, habitudes interactionnelles — peuvent influencer la manière dont les élèves mobilisent leurs ressources cognitives et motivationnelles. Une hypothèse interprétative est que la nouveauté sociale incarnée par l’expérimentateur pourrait agir comme un signal motivationnel implicite.
+A first step toward understanding **social influence on curiosity-driven learning** was taken through a study conducted by C. Devaux et al. (currently under publication). The results suggest that during metacognitive intervention sessions aimed at improving curiosity in learning, the type of adult leading the session had a different impact. Indeed, the presence of the regular teacher, compared with that of the experimenter, during these sessions, reduced pupils’ learning performance and curiosity. In addition, subjective questionnaires revealed an increased cognitive load. Possibly, pre-existing social dynamics—implicit expectations, hierarchical relationship, interactional habits—may influence the way pupils mobilize their cognitive and motivational resources. One interpretative hypothesis is that the social novelty embodied by the experimenter could act as an implicit motivational signal.
 
-Ces premiers éléments de terrain ouvrent la voie à une série de questions que je souhaite adresser dans le cadre de mon post-doctorat au sein de l’équipe Flowers, notamment en collaboration avec J. Perez (doctorant au sein de l’équipe ; Perez et al., en cours de publication, [preprint disponible](https://hal.science/hal-05372504v1)) : suffit-il qu'un autre individu soit présent pour que la curiosité s’intensifie ou se dégrade ? Est-ce que la présence d'un pair (camarade de classe) a le même effet que celui d'un adulte (enseignant) ? Et comment ces influences impactent-elles différemment les apprentissages selon l'âge, le contexte éducatif (ex : école traditionnelle versus pédagogie Montessori), ou le profil de l'enfant, que ce soit son origine culturelle, ses traits de personnalités ou sa relation avec son entourage social ?
+These first field findings open the way to a series of questions that I wish to address in the context of my postdoctoral work within the Flowers team, notably in collaboration with J. Perez (PhD student within the team; Perez et al., currently under publication, [preprint available](https://hal.science/hal-05372504v1)): is the mere presence of another individual enough for curiosity to intensify or deteriorate? Does the presence of a peer (classmate) have the same effect as that of an adult (teacher)? And how do these influences differentially affect learning according to age, educational context (e.g., traditional school versus Montessori pedagogy), or the child’s profile, whether in terms of cultural background, personality traits, or relationship with their social surroundings?
 
 
 ## Conclusion
 
-Ainsi, l'apprentissage n'est pas un processus solitaire. Les autres ne sont pas de simples distracteurs ou des sources de pression : ils sont aussi des catalyseurs, des miroirs, des partenaires silencieux de notre curiosité. 
-Comprendre comment et à quelles conditions ils potentialisent — plutôt qu'ils n'étouffent — notre motivation intrinsèque est un enjeu scientifique majeur, et un défi éducatif concret pour toutes les personnes qui conçoivent des environnements d'apprentissage et y interviennent.
+Thus, learning is not a solitary process. Others are not mere distractors or sources of pressure: they are also catalysts, mirrors, and silent partners of our curiosity. 
+Understanding how and under which conditions they enhance—rather than suppress—our intrinsic motivation is a major scientific challenge, and a concrete educational challenge for all those who design learning environments and intervene in them.
+
 
 ## References
 
