@@ -112,7 +112,7 @@ Quelques études en lien avec les compétences éducatives, chez l’enfant et l
   <img src="/assets/img/Figure_Brain.jpg" width="70%" />
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
-    <strong>Figure du haut :</strong> d’après Arioli et Canessa (2019) dans <em>Human Brain Mapping</em> : réseau cérébral impliqué dans la mentalisation (théorie de l’esprit) incluant principalement la jonction temporo-pariétale, le cortex préfrontal médian, et le precuneus s’étendant sur le cortex cingulaire postérieur.
+    <strong>Figure du haut :</strong> d’après Arioli et Canessa (2019) dans <em>Human Brain Mapping</em> : réseau cérébral impliqué dans la mentalisation (théorie de l’esprit) incluant principalement la jonction temporo-pariétale, le cortex préfrontal médian, et le precuneus s’étendant sur le cortex cingulaire postérieur.<br>
     <strong>Figure du bas :</strong> d’après Tricoche et al., (2023) dans <em>NeuroImage</em> : de nombreuses régions s’activent plus en présence sociale qu’en condition seule pendant la complétion de tâches cognitives. Ces régions semblent appartenir au réseau attentionnel, au réseau de la mentalisation et au réseau motivationnel (striatum ventral, VS, en particulier).
   </figcaption>
 </figure>
