@@ -7,4 +7,3 @@ related_posts: false
 
 New blog post available (in French and English): *Apprendre ensemble : les autres comme moteurs (ou freins ?) de notre curiosité* ✨
 
-#, ✨ 💂‍♂️ 🍁
