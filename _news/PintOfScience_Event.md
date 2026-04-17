@@ -11,7 +11,7 @@ I will be taking part in the upcoming *Pint of Science* festival in Bordeaux, ta
 This international event brings researchers into local bars to share and discuss science with the public in an informal setting.
 
 <figure style="text-align: center;">
-  <img src="/assets/img/PintOfScience.JPG" style="max-width: 400px; width: 100%;" />
+  <img src="/assets/img/PintOfScience.JPG" width="30%" />
 </figure>
 
 👉 [Book your spot here](https://pintofscience.fr/events/bordeaux/)
