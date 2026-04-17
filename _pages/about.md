@@ -14,7 +14,8 @@ profile:
 
 selected_papers: false
 social: true
-enabled: true
+announcements:
+  enabled: true
 ---
 
 My research lies at the intersection of **social psychology** and **cognitive neuroscience**. It focuses on understanding the mechanisms and neural substrates underlying **human decision-making in social contexts**, as well as their **developmental trajectories** from childhood through adolescence to adulthood.
