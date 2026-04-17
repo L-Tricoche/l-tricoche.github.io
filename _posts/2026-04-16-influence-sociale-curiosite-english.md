@@ -16,7 +16,7 @@ thumbnail: assets/img/Gateaux.PNG
 
 ## A story of “motivating” cakes
 
-A few days ago, our team gathered around a table for a collective writing session — a “blogathon,” as we called it. Each of us had to write a post on a research topic related to the team’s focus. The goal was to learn or practice writing scientific content in this format. Between bites of the small cakes brought by a colleague, I started typing my first lines… a situation that perfectly illustrated, in real conditions, the very topic I wanted to address.
+A few days ago, our team gathered around a table for a collective writing session — a “blogathon,” as we called it [Click here to see other posts from the team](https://developmentalsystems.org/). Each of us had to write a post on a research topic related to the team’s focus. The goal was to learn or practice writing scientific content in this format. Between bites of the small cakes brought by a colleague, I started typing my first lines… a situation that perfectly illustrated, in real conditions, the very topic I wanted to address.
 
 Why am I writing this article? To learn how to write a blog post? To share my research? To deepen my own understanding of the literature? To be part of a team dynamic initiated by our director? Because my colleagues were there too, writing, creating a focused and supportive working atmosphere around me?
 
