@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/influence-sociale-curiosite/";
           
         },
+      },{id: "post-influence-sociale-curiosite-english",
+        
+          title: "Influence Sociale Curiosite English",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/influence-sociale-curiosite-english/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
