@@ -68,7 +68,7 @@ ninja.data = [{
             },},{id: "news-work-in-progress-go-to-news",
           title: 'WORK IN PROGRESS (GO TO _NEWS)',
           description: "",
-          section: "News",},{id: "news-new-blog-post-available-in-french-and-english-apprendre-ensemble-les-autres-comme-moteurs-ou-freins-de-notre-curiosité-️",
+          section: "News",},{id: "news-new-blog-post-available-in-french-and-english-apprendre-ensemble-les-autres-comme-moteurs-ou-freins-de-notre-curiosité",
           title: 'New blog post available (in French and English): Apprendre ensemble : les autres...',
           description: "",
           section: "News",},{id: "projects-project-7",
