@@ -55,11 +55,11 @@ ninja.data = [{
             window.location.href = "/blog/2026/influence-sociale-curiosite-french/";
           
         },
-      },{id: "post-apprendre-ensemble-les-autres-comme-moteurs-ou-freins-de-notre-curiosité",
+      },{id: "post-learning-together-how-others-can-fuel-or-hinder-our-curiosity",
         
-          title: "Apprendre ensemble : les autres comme moteurs (ou freins ?) de notre curiosité...",
+          title: "Learning together: how others can fuel (or hinder) our curiosity",
         
-        description: "Comment la présence, le regard et l’activité des autres influencent-ils notre motivation à apprendre et notre curiosité ?",
+        description: "How do the presence, gaze, and activity of others influence our motivation to learn and our curiosity?",
         section: "Posts",
         handler: () => {
           
