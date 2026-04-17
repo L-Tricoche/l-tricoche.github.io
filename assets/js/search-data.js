@@ -52,7 +52,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/influence-sociale-curiosite/";
+            window.location.href = "/blog/2026/influence-sociale-curiosite-french/";
           
         },
       },{id: "post-influence-sociale-curiosite-english",
