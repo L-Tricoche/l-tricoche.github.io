@@ -62,8 +62,7 @@ D’ailleurs pour parler un peu de réseaux cérébraux, ce système d'imitation
   <img src="/assets/img/Figure_SocialLearning.jpg" width="80%" />
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
-    <strong>Figure du haut :</strong> d’après Arioli et Canessa (2019) dans <em>Human Brain Mapping</em> : réseau cérébral impliqué dans l’apprentissage social (action par l’observation) incluant le cortex prémoteur, des aires pariétales dont les lobules pariétaux supérieur, inférieur et le sulcus pariétal inférieur, le gyrus frontal inférieur, une partie du sulcus temporal supérieur et des régions occipitales.<br><br>
-
+    <strong>*Figure du haut :</strong> d’après Arioli et Canessa (2019) dans <em>Human Brain Mapping</em> : réseau cérébral impliqué dans l’apprentissage social (action par l’observation) incluant le cortex prémoteur, des aires pariétales dont les lobules pariétaux supérieur, inférieur et le sulcus pariétal inférieur, le gyrus frontal inférieur, une partie du sulcus temporal supérieur et des régions occipitales.
     <strong>Figure du bas :</strong> d’après Hofmans et van den Bos (2022) dans <em>Developmental Cognitive Neuroscience</em> : mise à jour bayésienne des croyances en fonction des caractéristiques sociales de la source. L’information sociale est pondérée selon sa fiabilité perçue (expertise, statut, proximité) : elle a un impact plus faible lorsqu’elle provient d’une source peu crédible (schéma du haut) et plus fort lorsqu’elle provient d’une source fiable (schéma du bas). Cette pondération différentielle conduit à une révision plus ou moins importante de la croyance initiale.
   </figcaption>
 </figure>
@@ -98,8 +97,7 @@ On distingue typiquement trois **formes de présence sociale** :
   <img src="/assets/img/Figure_SimplePresence.jpg" width="80%" />
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
-    <strong>Schéma du haut :</strong> dispositif expérimental utilisé par Triplett dans son étude sur l’effet de simple présence chez les enfants en 1898. Il s’agit d’un dispositif s’apparentant à une canne à pêche où les enfants devaient tourner un moulinet le plus rapidement possible.<br><br>
-
+    <strong>Schéma du haut :</strong> dispositif expérimental utilisé par Triplett dans son étude sur l’effet de simple présence chez les enfants en 1898. Il s’agit d’un dispositif s’apparentant à une canne à pêche où les enfants devaient tourner un moulinet le plus rapidement possible.
     <strong>Schéma du bas :</strong> les trois types de simple présence représentés dans un exemple de situation de course. On distingue l’audience passive, l’évaluation et la coaction.
   </figcaption>
 </figure>
@@ -114,8 +112,7 @@ Quelques études en lien avec les compétences éducatives, chez l’enfant et l
   <img src="/assets/img/Figure_Brain.jpg" width="80%" />
 
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
-    <strong>Figure du haut :</strong> d’après Arioli et Canessa (2019) dans <em>Human Brain Mapping</em> : réseau cérébral impliqué dans la mentalisation (théorie de l’esprit) incluant principalement la jonction temporo-pariétale, le cortex préfrontal médian, et le precuneus s’étendant sur le cortex cingulaire postérieur.<br><br>
-
+    <strong>Figure du haut :</strong> d’après Arioli et Canessa (2019) dans <em>Human Brain Mapping</em> : réseau cérébral impliqué dans la mentalisation (théorie de l’esprit) incluant principalement la jonction temporo-pariétale, le cortex préfrontal médian, et le precuneus s’étendant sur le cortex cingulaire postérieur.
     <strong>Figure du bas :</strong> d’après Tricoche et al., (2023) dans <em>NeuroImage</em> : de nombreuses régions s’activent plus en présence sociale qu’en condition seule pendant la complétion de tâches cognitives. Ces régions semblent appartenir au réseau attentionnel, au réseau de la mentalisation et au réseau motivationnel (striatum ventral, VS, en particulier).
   </figcaption>
 </figure>
@@ -135,8 +132,7 @@ Cependant, jusqu’à présent, ces travaux se sont principalement concentrés s
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 10px;">
     Paradigmes étudiant comment les individus orientent leurs choix d’exploration en fonction du progrès d’apprentissage. 
     
-    <strong>Figure du haut :</strong> d’après Ten et al., (2021) dans <em>Nature Communications</em> : ‘’Monster Task’’ où il existe différentes familles de monstres avec des règles/comportements cachés que le participant découvre librement. À chaque essai, le participant choisit un monstre, formule une hypothèse sur sa préférence alimentaire, puis reçoit un feedback.<br><br>
-
+    <strong>Figure du haut :</strong> d’après Ten et al., (2021) dans <em>Nature Communications</em> : ‘’Monster Task’’ où il existe différentes familles de monstres avec des règles/comportements cachés que le participant découvre librement. À chaque essai, le participant choisit un monstre, formule une hypothèse sur sa préférence alimentaire, puis reçoit un feedback.
     <strong>Figure du bas :</strong> d’après Poli et al., (2025) dans <em>Child Development</em> : dans cette tâche d’exploration, le participant interagit avec des personnages en devinant l’emplacement où ils se cachent.
   </figcaption>
 </figure>
@@ -154,23 +150,41 @@ Comprendre comment et à quelles conditions ils potentialisent — plutôt qu'il
 ## Références
 
 •	Arioli, M., & Canessa, N. (2019). Neural processing of social interaction: Coordinate-based meta-analytic evidence from human neuroimaging studies. *Human Brain Mapping*, 40(13), 3712–3737. [https://doi.org/10.1002/hbm.24627](https://doi.org/10.1002/hbm.24627)
-•	Asch, S. E. (1951). Effects of group pressure upon the modification and distortion of judgments. Groups, leadership and men; research in human relations, pp. 177–190. *Carnegie Press*. [https://doi.org/10.1525/9780520313514-017](https://doi.org/10.1525/9780520313514-017) 
-•	Bandura, A. (1977). Social Learning Theory. *Prentice Hall*.
-•	Camarda, A., Bouhours, L., Osmont, A., Le Masson, P., Weil, B., Borst, G., & Cassotti, M. (2021). Opposite Effect of Social Evaluation on Creative Idea Generation in Early and Middle Adolescents. *Creativity Research Journal*, 33(4), 399–410. [https://doi.org/10.1080/10400419.2021.1902174](https://doi.org/10.1080/10400419.2021.1902174) 
-•	Deci, E. L. (1975). Intrinsic motivation. *New York, Plenum Press*. [https://doi.org/10.1007/978-1-4613-4446-9](https://doi.org/10.1007/978-1-4613-4446-9)
-•	Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-determination in human behavior. *Springer NY*. [https://doi.org/10.1007/978-1-4899-2271-7](https://doi.org/10.1007/978-1-4899-2271-7) 
-•	Deci, E. L., Koestner, R., & Ryan, R. M. (2001). Extrinsic Rewards and Intrinsic Motivation in Education: Reconsidered Once Again. *Review of Educational Research*, 71(1), 1-27. [https://doi.org/10.3102/00346543071001001](https://doi.org/10.3102/00346543071001001) 
-•	Devaux, C., Abdelghani, R., Sauzéon, H., & Oudeyer, P-Y. (Under review). Metacognitive training of children’s curiosity in schools: investigating a teacher-led intervention. 
-•	Guerin, B. (2010). Social facilitation. *Cambridge University Press*. [https://doi.org/10.1017/CBO9780511628214](https://doi.org/10.1017/CBO9780511628214) 
-•	Perez, J., Derex, M., Oudeyer, P-Y., & Moulin-Frier, C. Intrinsic motivation is key to understanding peer cultures. [preprint](https://hal.science/hal-05372504v1) 
-•	Poli, F., Meyer, M., Mars, R. B., & Hunnius, S. (2025). Exploration in 4-year-old children is guided by learning progress and novelty. *Child Development*, 96:192-202. [https://doi.org/10.1111/cdev.14158](https://doi.org/10.1111/cdev.14158) 
-•	Rizzolatti, G., & Craighero, L. (2004). The mirror-neuron system. *Annual Review Neuroscience*, 27:169-192. [https://doi.org/10.1146/annurev.neuro.27.070203.144230](https://doi.org/10.1146/annurev.neuro.27.070203.144230)   
-•	Serko, D., Leonard, J., & Ruggeri, A. (2025). Children strategically decide what to practice. *Child Development*, 96:1619-1631. [https://doi.org/10.1111/cdev.14268](https://doi.org/10.1111/cdev.14268) 
-•	Ten, A., Kaushik, P., Oudeyer, PY., Gottlieb, J. (2021). Humans monitor learning progress in curiosity-driven exploration. *Nature Communications*, 12, 5972. [https://doi.org/10.1038/s41467-021-26196-w](https://doi.org/10.1038/s41467-021-26196-w)
-•	Tricoche, L., Monfardini, E., Reynaud, A. J., Epinat-Duclos, J., Pélisson, D., Prado, J., & Meunier, M. (2021). Peer presence effect on numerosity and phonological comparisons in 4th graders: When working with a schoolmate makes children more adult-like. *Biology*, 10(902), 643–662. [https://doi.org/10.3390/biology10090902](https://doi.org/10.3390/biology10090902) 
-•	Tricoche, L., Pélisson, D., Longo, L., Kound, E., Poisson, A., Prado, J. & Meunier, M. (2023). Task-independent neural bases of peer presence effect on cognition in children and adults. *NeuroImage*, 277. [https://doi.org/10.1016j.neuroimage.2023.120247](https://doi.org/10.1016j.neuroimage.2023.120247)
-•	Tricoche, L., & Caspar, E. (Under review). The power of social influence on (non-)moral decision-making and its resistance: A scoping review of behavioral effects and neural mechanisms. [preprint](https://osf.io/preprints/osf/s6jtk_v3)
-•	Triplett, N. (1898). The dynamogenic factors in pacemaking and competition. *The American Journal of Psychology*, 9(4), 507–533. [https://doi.org/10.2307/1412188](https://doi.org/10.2307/1412188)
-•	Wolf, L. K., Bazargani, N., Kilford, E. J., Dumontheil, I., Blakemore, S-J. (2015). The audience effect in adolescence depends on who’s looking over your shoulder. *Journal of Adolescence*, 43: 5-14. [http://dx.doi.org/10.1016/j.adolescence.2015.05.003](http://dx.doi.org/10.1016/j.adolescence.2015.05.003) 
-•	Zajonc, R. (1965). Social facilitation. *Science*, 149, 269–274. [https://doi.org/10.1126/science.149.3681.269](https://doi.org/10.1126/science.149.3681.269)
 
+•	Asch, S. E. (1951). Effects of group pressure upon the modification and distortion of judgments. Groups, leadership and men; research in human relations, pp. 177–190. *Carnegie Press*. [https://doi.org/10.1525/9780520313514-017](https://doi.org/10.1525/9780520313514-017) 
+
+•	Bandura, A. (1977). Social Learning Theory. *Prentice Hall*.
+
+•	Camarda, A., Bouhours, L., Osmont, A., Le Masson, P., Weil, B., Borst, G., & Cassotti, M. (2021). Opposite Effect of Social Evaluation on Creative Idea Generation in Early and Middle Adolescents. *Creativity Research Journal*, 33(4), 399–410. [https://doi.org/10.1080/10400419.2021.1902174](https://doi.org/10.1080/10400419.2021.1902174) 
+
+•	Deci, E. L. (1975). Intrinsic motivation. *New York, Plenum Press*. [https://doi.org/10.1007/978-1-4613-4446-9](https://doi.org/10.1007/978-1-4613-4446-9)
+
+•	Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-determination in human behavior. *Springer NY*. [https://doi.org/10.1007/978-1-4899-2271-7](https://doi.org/10.1007/978-1-4899-2271-7) 
+
+•	Deci, E. L., Koestner, R., & Ryan, R. M. (2001). Extrinsic Rewards and Intrinsic Motivation in Education: Reconsidered Once Again. *Review of Educational Research*, 71(1), 1-27. [https://doi.org/10.3102/00346543071001001](https://doi.org/10.3102/00346543071001001) 
+
+•	Devaux, C., Abdelghani, R., Sauzéon, H., & Oudeyer, P-Y. (Under review). Metacognitive training of children’s curiosity in schools: investigating a teacher-led intervention. 
+
+•	Guerin, B. (2010). Social facilitation. *Cambridge University Press*. [https://doi.org/10.1017/CBO9780511628214](https://doi.org/10.1017/CBO9780511628214) 
+
+•	Perez, J., Derex, M., Oudeyer, P-Y., & Moulin-Frier, C. Intrinsic motivation is key to understanding peer cultures. [preprint](https://hal.science/hal-05372504v1) 
+
+•	Poli, F., Meyer, M., Mars, R. B., & Hunnius, S. (2025). Exploration in 4-year-old children is guided by learning progress and novelty. *Child Development*, 96:192-202. [https://doi.org/10.1111/cdev.14158](https://doi.org/10.1111/cdev.14158) 
+
+•	Rizzolatti, G., & Craighero, L. (2004). The mirror-neuron system. *Annual Review Neuroscience*, 27:169-192. [https://doi.org/10.1146/annurev.neuro.27.070203.144230](https://doi.org/10.1146/annurev.neuro.27.070203.144230)   
+
+•	Serko, D., Leonard, J., & Ruggeri, A. (2025). Children strategically decide what to practice. *Child Development*, 96:1619-1631. [https://doi.org/10.1111/cdev.14268](https://doi.org/10.1111/cdev.14268) 
+
+•	Ten, A., Kaushik, P., Oudeyer, PY., Gottlieb, J. (2021). Humans monitor learning progress in curiosity-driven exploration. *Nature Communications*, 12, 5972. [https://doi.org/10.1038/s41467-021-26196-w](https://doi.org/10.1038/s41467-021-26196-w)
+
+•	Tricoche, L., Monfardini, E., Reynaud, A. J., Epinat-Duclos, J., Pélisson, D., Prado, J., & Meunier, M. (2021). Peer presence effect on numerosity and phonological comparisons in 4th graders: When working with a schoolmate makes children more adult-like. *Biology*, 10(902), 643–662. [https://doi.org/10.3390/biology10090902](https://doi.org/10.3390/biology10090902) 
+
+•	Tricoche, L., Pélisson, D., Longo, L., Kound, E., Poisson, A., Prado, J. & Meunier, M. (2023). Task-independent neural bases of peer presence effect on cognition in children and adults. *NeuroImage*, 277. [https://doi.org/10.1016j.neuroimage.2023.120247](https://doi.org/10.1016j.neuroimage.2023.120247)
+
+•	Tricoche, L., & Caspar, E. (Under review). The power of social influence on (non-)moral decision-making and its resistance: A scoping review of behavioral effects and neural mechanisms. [preprint](https://osf.io/preprints/osf/s6jtk_v3)
+
+•	Triplett, N. (1898). The dynamogenic factors in pacemaking and competition. *The American Journal of Psychology*, 9(4), 507–533. [https://doi.org/10.2307/1412188](https://doi.org/10.2307/1412188)
+
+•	Wolf, L. K., Bazargani, N., Kilford, E. J., Dumontheil, I., Blakemore, S-J. (2015). The audience effect in adolescence depends on who’s looking over your shoulder. *Journal of Adolescence*, 43: 5-14. [http://dx.doi.org/10.1016/j.adolescence.2015.05.003](http://dx.doi.org/10.1016/j.adolescence.2015.05.003) 
+
+•	Zajonc, R. (1965). Social facilitation. *Science*, 149, 269–274. [https://doi.org/10.1126/science.149.3681.269](https://doi.org/10.1126/science.149.3681.269)
