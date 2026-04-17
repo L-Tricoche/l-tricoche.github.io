@@ -4,7 +4,7 @@ title: "Learning together: how others can fuel (or hinder) our curiosity"
 date: 2026-04-16 10:00:00 +0200
 description: "How do the presence, gaze, and activity of others influence our motivation to learn and our curiosity?"
 tags: [curiosity, motivation, learning, social influence, education]
-categories: [recherche]
+categories: [research]
 featured: false
 thumbnail: assets/img/Gateaux.PNG
 ---
