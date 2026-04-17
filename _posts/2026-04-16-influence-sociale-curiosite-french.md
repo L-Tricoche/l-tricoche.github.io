@@ -16,7 +16,7 @@ thumbnail: assets/img/Gateaux.PNG
 
 ## Une histoire de gâteaux « motivateurs »
 
-Il y a quelques jours, notre équipe s'est retrouvée autour d'une table pour une session d'écriture collective — un « blogathon », comme il a été baptisé. Chacun·e devait rédiger un billet sur un sujet de recherche de son choix en lien avec les axes de l’équipe. L’objectif était d’apprendre ou de s’entraîner à écrire du contenu scientifique dans ce type de format. Entre deux bouchées des petits gâteaux apportés par une collègue, j'ai commencé à taper les premières lignes… une situation qui illustrait, en condition réelle, le sujet que je souhaitais aborder.
+Il y a quelques jours, notre équipe s'est retrouvée autour d'une table pour une session d'écriture collective — un « blogathon », comme il a été baptisé [Cliquez ici pour voir les autres posts de l'équipe](https://developmentalsystems.org/). Chacun·e devait rédiger un billet sur un sujet de recherche de son choix en lien avec les axes de l’équipe. L’objectif était d’apprendre ou de s’entraîner à écrire du contenu scientifique dans ce type de format. Entre deux bouchées des petits gâteaux apportés par une collègue, j'ai commencé à taper les premières lignes… une situation qui illustrait, en condition réelle, le sujet que je souhaitais aborder.
 
 Pourquoi suis-je en train d'écrire cet article ? Pour apprendre factuellement à écrire un blog ? Par envie de partager mes travaux ? Pour approfondir ma propre compréhension de la littérature en faisant le point ? Par désir d'appartenir à une dynamique d'équipe, lancée par notre directeur ? Parce que mes collègues étaient là, eux aussi en train d'écrire, créant autour de moi une atmosphère de travail studieux et bienveillant ?
 
