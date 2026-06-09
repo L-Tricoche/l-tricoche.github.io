@@ -14,7 +14,7 @@ I also had the opportunity to present results from our new study on ecological b
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 1rem;">
   <figure style="text-align: center; margin: 0;">
-    <img src="/assets/img/poster.jpeg" width="280px" style="border-radius: 6px;" />
+    <img src="/assets/img/poster.jpg" width="280px" style="border-radius: 6px;" />
   </figure>
   <figure style="text-align: center; margin: 0;">
     <img src="/assets/img/talk.jpeg" width="280px" style="border-radius: 6px;" />
